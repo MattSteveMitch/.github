@@ -166,45 +166,5 @@ If you do not have the required number of commits, or if they are all clustered 
 
 ## ☑ Assignment
 
-Do the following steps to set up your `Startup application repository` in GitHub and clone it to your development environment.
-
-### Creating Your Startup GitHub Repository
-
-1. Open your web browser to the course [template repository](https://github.com/webprogramming260/startup)
-1. Use the template to create a GitHub repository for your startup project
-
-   1. Click on the `Use this template` button.
-   1. Choose the `Create a new repository` option.
-
-      ![alt text](useTemplate.png)
-
-   1. Name it `startup`.
-   1. Mark the repository as `public` so that it can be reviewed by the TAs and instructors.
-   1. Select the option to create a license file and README.md.
-
-      ![create repo](create-repo.png)
-
-1. Open a command line console window.
-1. Clone your newly created repository to your development environment. Make sure you put the clone of the repository in a directory that you use for this class's coursework. These commands will look something like the following.
-
-   ```sh
-   cd ~/byu/cs260
-   git clone https://github.com/YOURACCOUNTHERE/startup.git
-   cd startup
-   ```
-
-### Practice using Git
-
-1. Open up the repository directory in VS Code and modify the `readme.md` and `notes.md` file.create a file. Commit your changes, and push them to GitHub.
-1. Using the GitHub web console modify your `readme.md` file and commit the changes.
-1. In VS Code pull down and review the changes.
-
-### Your notes.md
-
-Your notes file is meant as a place to remember all the things you have learned from this course. You should modify this file frequently.
-
-1. Read the GitHub documentation about the basics of [writing markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-1. Access the file in your repository called `notes.md`. You can use the contents of this file on any exam. As you modify your `notes.md` file throughout the class. Make sure that you keep it organized and clean. You can add multiple `.md` files and reference them from your `notes.md` file in order make it easier to organize your content.
-1. Make your first notes in your `notes.md` file about what you learned from this assignment. Commit and push your notes to GitHub.
-
-_If your section of this course requires that you submit assignments for grading_: Submit in the Canvas assignment the URL of your GitHub startup repository.
+Go and have some fun! (This assignment, namely having some fun, is worth 1000 points.)
+(If this fork is not accepted, at least I will have forked the repository, which it was recommended that I practice anyway.)
