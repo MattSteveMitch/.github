@@ -54,7 +54,7 @@ Every HTML element may have attributes. Attributes describe the specific details
 
 ## Hyperlinks
 
-One of the core features that made the web so successful was the ability to create hyperlinks that take you from one page to another another with a simple click. A hyperlink in HTML is represented with an anchor (`a`) element that has an attribute containing the address of the hyperlink reference (`href`). A hyperlink to BYU's home page looks like this:
+One of the core features that made the web so successful was the ability to create hyperlinks that take you from one page to another with a simple click. A hyperlink in HTML is represented with an anchor (`a`) element that has an attribute containing the address of the hyperlink reference (`href`). A hyperlink to BYU's home page looks like this:
 
 ```html
 <a href="https://byu.edu">Go to the Y</a>
