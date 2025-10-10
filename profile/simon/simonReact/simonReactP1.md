@@ -410,7 +410,7 @@ The `NavLink` component prevents the browser's default navigation functionality 
 
 ### Injecting the routed component
 
-The router definitions are then inserted so that the router knows what component to display for a given path. The router changes the rendered component; it appears in the place of the `Routes` element. The `Routes` element replaces the `main` element in the component HTML.
+The router definitions are then inserted into the `BrowserRouter` component so that the router knows what component to display for a given path. The router changes the rendered component; it appears in the place of the `Routes` element. The `Routes` element replaces the `main` element in the component HTML.
 
 ```jsx
  <main>App components go here</main>
